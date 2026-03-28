@@ -18,7 +18,7 @@ alt="<YOUR_GITHUB_USERNAME>" />
 - 🧠 Strong in **Problem Solving & Programming**
 - 💬 Ask me about **Python, Java, AI, ML, SQL, DSA**
 - 👨‍💻 All my projects are available on **GitHub**
-- 📫 Reach me at: **your_email@gmail.com**
+- 📫 Reach me at:katalbharti085@gmail.com
 - ⚡ Fun fact: *"Learning never stops when curiosity is alive."* ✨
 
 ---
